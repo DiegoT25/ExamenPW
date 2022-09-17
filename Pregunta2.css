@@ -9,10 +9,28 @@
 }
 body{
     margin: 0px;
-    background-color: #636363;
+    background-color: #e8E8E8;
 }
-nav ul{
+ul{
     list-style-type: none;
     padding: 0%;
+    background-color: #12aaff;
+}
+li a {
+    display: block;
+
+
+
+}
+footer{
+    background-color: #636363;
+}
+a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+h1, p{
+    font-family: Arial, Helvetica, sans-serif;
 }
 
